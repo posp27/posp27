@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @posp27
-- 👀 I’m interested in Open Source Projects C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Open Source Projects Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ak.di@protonmail.com
 
