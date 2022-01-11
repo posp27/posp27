@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source Projects Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ak.di@protonmail.com
+- 📫 How to reach me: diyar.aka@protonmail.com
 
 <!---
 posp27/posp27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
